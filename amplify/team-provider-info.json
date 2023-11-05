@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sunhacks-dev-174104-authRole",
+      "UnauthRoleArn": "arn:aws:iam::746731052158:role/amplify-sunhacks-dev-174104-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::746731052158:role/amplify-sunhacks-dev-174104-authRole",
+      "Region": "us-west-1",
+      "DeploymentBucketName": "amplify-sunhacks-dev-174104-deployment",
+      "UnauthRoleName": "amplify-sunhacks-dev-174104-unauthRole",
+      "StackName": "amplify-sunhacks-dev-174104",
+      "StackId": "arn:aws:cloudformation:us-west-1:746731052158:stack/amplify-sunhacks-dev-174104/02a7d3c0-7b74-11ee-a295-024c6b090ea3",
+      "AmplifyAppId": "d2s4fb2keamngi"
+    }
+  }
+}
